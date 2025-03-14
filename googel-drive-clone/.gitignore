@@ -44,3 +44,9 @@ yarn-error.log*
 
 # idea files
 .idea
+node_modules/
+.DS_Store
+.Trash/
+.vscode/
+.cache/
+
